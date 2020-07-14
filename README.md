@@ -1,2 +1,3 @@
 # hello-world
-This is description of first github project
+This is description of first GitHub project
+I am a person who is trying to learn about git.
